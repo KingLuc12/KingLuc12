@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingLuc12
 
-- First Name: Lucian
-- Last Name: King
+- First Name: ----
+- Last Name: -----
 - Hobbies: Coding, Gaming
