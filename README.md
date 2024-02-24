@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm KingLuc</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just your casual British Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingluc12&label=Views&color=000000&style=plastic" alt="kingluc12" /> </p>
 
