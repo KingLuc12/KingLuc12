@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingluc12" alt="kingluc12" /></a> </p>
 
-- 🚧I'm currently working on my own [Personal Website](https://kingluc.is-a.dev)
+- 🚧I'm currently working on a Minecraft DDoS protection software - TCP SUCKS!!!
 
 - ⚡ My favourite programming language **JavaScript**
 
