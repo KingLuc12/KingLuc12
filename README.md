@@ -7,8 +7,17 @@
 
 <p align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool (If I do say so myself) </p>
 
-**Tools I use:
+<h3 align="left">I'm proficient in and use daily:</h3>
 
+![ToolsLogos](https://skillicons.dev/icons?i=js,nodejs,express,discordjs,html,github,vscode,mongodb,lua,discord)
+
+<h3 align="left">I can understand and use:</h3>
+
+![UnderstandLogos](https://skillicons.dev/icons?i=docker,bash,git,python,nginx)
+
+<h3 align="left">I can just about understand:</h3>
+
+![JustUnderstandLogos](https://skillicons.dev/icons?i=java)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
