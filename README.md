@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingluc12" alt="kingluc12" /></a> </p>
 
-- 🚧I'm currently working on a Minecraft DDoS protection software - TCP SUCKS!!!
+<p align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool (If I do say so myself) </p>
 
-- ⚡ My favourite programming language **JavaScript**
+**Tools I use:
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kingluc12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kingluc12" height="30" width="40" /></a>
-<a href="https://dev.to/kingluc12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kingluc12" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18387770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18387770" height="30" width="40" /></a>
 <a href="https://discord.gg/mxct47jgDU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxct47jgDU" height="30" width="40" /></a>
 </p>
 
