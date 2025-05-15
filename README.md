@@ -16,21 +16,14 @@
 
 ![UnderstandLogos](https://skillicons.dev/icons?i=docker,bash,git,python,nginx)
 
-<div align="center">
+<h3 align="left">I can just about understand:</h3>
 
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>I can just about understand:</h3>
-    <img src="https://skillicons.dev/icons?i=java" alt="JustUnderstandLogos" />
-  </div>
+![JustUnderstandLogos](https://skillicons.dev/icons?i=java)
 
-  <div style="display: inline-block; margin: 20px; text-align: center;">
-    <h3>Connect with me:</h3>
-    <a href="https://discord.gg/mxct47jgDU" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxct47jgDU" height="30" width="40" />
-    </a>
-  </div>
-
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/mxct47jgDU" target="blank">![Discord](https://skillicons.dev/icons?i=discord)</a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingluc12&show_icons=true&locale=en&layout=compact" alt="kingluc12" /></p>
