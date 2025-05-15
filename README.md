@@ -16,14 +16,9 @@
 
 ![UnderstandLogos](https://skillicons.dev/icons?i=docker,bash,git,python,nginx)
 
-<h3 align="center">I can just about understand:</h3>
-
-![JustUnderstandLogos](https://skillicons.dev/icons?i=java)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/mxct47jgDU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxct47jgDU" height="30" width="40" /></a>
-</p>
+| I can just about understand: | Connect with me: |
+| ---------------------------- | ---------------- |
+| ![Java](https://skillicons.dev/icons?i=java) | [![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/mxct47jgDU) |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingluc12&show_icons=true&locale=en&layout=compact" alt="kingluc12" /></p>
 
