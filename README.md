@@ -22,7 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/mxct47jgDU" target="blank">![Discord](https://skillicons.dev/icons?i=discord)</a>
+  <a href="https://discord.gg/mxct47jgDU" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
 </p>
 
 
