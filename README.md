@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingluc12" alt="kingluc12" /></a> </p>
 
-<p align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool (If I do say so myself) </p>
+<h2 align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool (If I do say so myself) </h2>
 
 <h3 align="left">I'm proficient in and use daily:</h3>
 
