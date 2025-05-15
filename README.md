@@ -16,12 +16,12 @@
 
 ![UnderstandLogos](https://skillicons.dev/icons?i=docker,bash,git,python,nginx)
 
-<h3 align="left">I can just about understand:</h3>
+<h3 align="center">I can just about understand:</h3>
 
 ![JustUnderstandLogos](https://skillicons.dev/icons?i=java)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://discord.gg/mxct47jgDU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxct47jgDU" height="30" width="40" /></a>
 </p>
 
