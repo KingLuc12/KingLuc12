@@ -24,8 +24,3 @@
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingluc12&show_icons=true&locale=en&layout=compact" alt="kingluc12" /></p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/788654369225703429)](https://discord.com/users/788654369225703429)
