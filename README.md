@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello World! I'm KingLuc</h1>
 <h3 align="center">Just your casual British Developer</h3> <p align="right"> <img src="https://komarev.com/ghpvc/?username=kingluc12&label=Views&color=000000&style=plastic" alt="kingluc12" /> </p>
 
+<h2 align="right">Note: 90% of my repositories are private...</h2>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingluc12" alt="kingluc12" /></a> </p>
 
 <h2 align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool</h2>
