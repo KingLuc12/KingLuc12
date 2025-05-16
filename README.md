@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello World! I'm KingLuc</h1>
 <img align="left" src="https://komarev.com/ghpvc/?username=kingluc12&label=Views&color=000000&style=plastic" alt="kingluc12" />
-
+<p>
 <h3 align="center">Just your casual British Developer :)</h3>
-
+</p>
 <h4 align="center">Note: 90% of my repositories are private...</h4>
 
 <h2 align="center"> 🚧I'm currently working on a Minecraft DDoS protection software - It's pretty cool</h2>
